@@ -1,1 +1,15 @@
-["redis-brain.coffee", "tweet.coffee", "shipit.coffee"]
+[
+  "redis-brain.coffee",
+  "tweet.coffee",
+  "shipit.coffee",
+  "brb.coffee",
+  "aws.coffee",
+  "carlton.coffee",
+  "commitmessage.coffee",
+  "google.coffee",
+  "jenkins.coffee",
+  "redmine.coffee",
+  "screencast.coffee",
+  "tweet-content.coffee",
+  "working-on.coffee"
+]

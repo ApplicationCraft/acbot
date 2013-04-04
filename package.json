@@ -18,7 +18,12 @@
     "hubot-flowdock": ">= 0.4.0",
     "hubot":         ">=2.4.8",
     "hubot-scripts": ">= 2.4.1",
-    "optparse":      "1.0.3"
+    "optparse":      "1.0.3",
+    "underscore": "latest",
+    "moment": "latest",
+    "aws2js": "latest",
+    "soupselect": "latest",
+    "htmlparser": "latest"
   },
 
   "engines": {
