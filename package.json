@@ -23,7 +23,10 @@
     "moment": "latest",
     "aws2js": "latest",
     "soupselect": "latest",
-    "htmlparser": "latest"
+    "htmlparser": "latest",
+    "jsdom": "latest",
+    "jquery": "latest",
+    "githubot": "latest"
   },
 
   "engines": {

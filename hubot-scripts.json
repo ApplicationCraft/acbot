@@ -8,5 +8,6 @@
   "tweet-content.coffee",
   "working-on.coffee",
   "jenkins.coffee",
-  "git-help.coffee"
+  "git-help.coffee",
+  "github-issue-link.coffee"
 ]
