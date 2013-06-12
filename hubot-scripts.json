@@ -6,8 +6,8 @@
   "carlton.coffee",
   "commitmessage.coffee",
   "google.coffee",
-  "redmine.coffee",
   "screencast.coffee",
   "tweet-content.coffee",
-  "working-on.coffee"
+  "working-on.coffee",
+  "jenkins.coffee"
 ]
