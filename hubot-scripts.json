@@ -9,5 +9,8 @@
   "working-on.coffee",
   "jenkins.coffee",
   "git-help.coffee",
-  "github-issue-link.coffee"
+  "github-issue-link.coffee",
+  "github-issues.coffee",
+  "github-pulls.coffee",
+  "github-activity.coffee"
 ]
