@@ -5,9 +5,8 @@
   "brb.coffee",
   "carlton.coffee",
   "commitmessage.coffee",
-  "google.coffee",
-  "screencast.coffee",
   "tweet-content.coffee",
   "working-on.coffee",
-  "jenkins.coffee"
+  "jenkins.coffee",
+  "git-help.coffee"
 ]
