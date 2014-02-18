@@ -1,9 +1,9 @@
 {
-  "name":        "hosted-hubot",
-  "version":     "2.4.8",
-  "author":      "GitHub Inc.",
+  "name":        "acbot",
+  "version":     "1.0.0",
+  "author":      "Codio",
   "keywords":    "github hubot campfire bot",
-  "description": "A simple helpful Robot for your Company",
+  "description": "A simple helpful Robot for your Codio.",
   "licenses":     [{
     "type":       "MIT",
     "url":        "http://github.com/github/hubot/raw/master/LICENSE"
@@ -11,11 +11,11 @@
 
   "repository" : {
     "type": "git",
-    "url":  "https://github.com/github/hubot.git"
+    "url":  "https://github.com/applicationcraft/acbot.git"
   },
 
   "dependencies": {
-    "hubot-flowdock": ">= 0.4.0",
+    "hubot-flowdock": ">= 0.5.0",
     "hubot": ">=2.4.8",
     "hubot-scripts": ">= 2.4.1",
     "optparse": "1.0.3",
