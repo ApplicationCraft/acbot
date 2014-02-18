@@ -10,5 +10,7 @@
   "github-pulls.coffee",
   "github-activity.coffee",
   "github-status.coffee",
-  "hangout.coffee"
+  "beerme.coffee",
+  "carlton.coffee",
+  "wat.coffee"
 ]
