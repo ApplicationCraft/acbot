@@ -29,7 +29,9 @@
     "githubot": "latest",
     "underscore": "latest",
     "underscore.string": "latest",
-    "date-utils": "latest"
+    "date-utils": "latest",
+    "request": "~2",
+    "xml2js": "latest"
   },
 
   "engines": {
