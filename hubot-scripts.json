@@ -3,14 +3,13 @@
   "shipit.coffee",
   "brb.coffee",
   "commitmessage.coffee",
-  "jenkins.coffee",
   "git-help.coffee",
-  "github-issue-link.coffee",
-  "github-issues.coffee",
   "github-pulls.coffee",
   "github-activity.coffee",
   "github-status.coffee",
   "beerme.coffee",
   "carlton.coffee",
-  "wat.coffee"
+  "wat.coffee",
+  "youtrack.coffee",
+  "good-night.coffee"
 ]
